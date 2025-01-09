@@ -5,5 +5,10 @@ public class A {
 		System.out.println("Omkar");
 		System.out.println("Omserkjfh");
 		System.out.println("wureihu");
+		System.out.println("wureihu");
+		System.out.println("wureihu");
+		System.out.println("wureihu");
+		System.out.println("wureihu");
+		System.out.println("wureihu");
 	}
 }
